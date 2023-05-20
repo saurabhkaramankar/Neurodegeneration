@@ -1,4 +1,4 @@
-" Neurodegeneration" 
+## Neurodegeneration
 Neurodegenerative diseases, such as Alzheimer (AD), Parkinson (PD), Huntington diseases
 
 
@@ -12,7 +12,11 @@ A neurodegenerative disease is caused by the progressive loss of structure or fu
 
 Neurodegenerative diseases include amyotrophic lateral sclerosis, multiple sclerosis, Parkinson's disease, Alzheimer's disease, Huntington's disease, multiple system atrophy, and prion diseases.
 
+***
+
 Source - @WikiPedia
+
+---
 
 Alzheimer's Disease :
 
@@ -26,4 +30,11 @@ Huntington's Disease :
 
 Huntington's disease (HD) is a rare autosomal dominant neurodegenerative disorder caused by mutations in the huntingtin gene (HTT). HD is characterized by loss of medium spiny neurons and astrogliosis. The first brain region to be substantially affected is the striatum, followed by degeneration of the frontal and temporal cortices.
 
-Multiple sclerosis      Amyotrophic lateral sclerosis       Batten disease        Creutzfeldt–Jakob disease
++ Multiple sclerosis      
++ Amyotrophic lateral sclerosis      
++ Batten disease       
++ Creutzfeldt–Jakob disease
+
+---
+
+
